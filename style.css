@@ -1,0 +1,20 @@
+body {
+	H1, H2, H3 {
+	font-family:Helvetica
+}
+H1 {
+	font-size: 500%;
+	color: #fff;
+}
+H2 {
+	font-size: 400%;
+	color: #fff;
+}
+H3 {
+	font-size: 400%;
+	color: #fff;
+}
+P {
+	font-size: 400%
+	color: #fff
+}
